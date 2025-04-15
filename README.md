@@ -6,4 +6,4 @@ For this project you need the following
 2. MySQL
 
 Download the XAMPP Server and put this into the htdocs folder.
-Run the XAMPP server and open localhost/Hospital-Management-System and boom you are good to go.
+Run the XAMPP server and open localhost/library-Management-System and boom you are good to go.
