@@ -1,10 +1,12 @@
 📚 Library Management System
+
 Overview
+
 The Library Management System is a web-based application developed using PHP and MySQL, designed to streamline and automate the management of library resources. It facilitates efficient handling of books, users, and borrowing activities, ensuring a seamless experience for both librarians and patrons.
-GitHub
-GitHub
+
 
 Features
+
 User Authentication: Secure login and registration system for administrators and users.
 
 Book Management: Add, update, delete, and view book records with ease.
@@ -17,6 +19,8 @@ Search Functionality: Efficient search capabilities for books and users.
 
 Responsive Design: User-friendly interface compatible with various devices.
 GitHub
+
+
 
 Technologies Used
 Frontend: HTML, CSS
